@@ -31,7 +31,7 @@
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
-			<plugin>
+<!-- 		<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.5.1</version>
 				<configuration>
@@ -39,7 +39,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-			<plugin>
+-->			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
 				<version>2.6</version>
 				<configuration>
